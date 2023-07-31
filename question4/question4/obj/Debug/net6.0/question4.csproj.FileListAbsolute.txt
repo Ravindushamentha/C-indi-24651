@@ -1,0 +1,5 @@
+C:\Users\SHENAL\OneDrive\Desktop\chalitha\C#lab4\question4\question4\obj\Debug\net6.0\question4.csproj.AssemblyReference.cache
+C:\Users\SHENAL\OneDrive\Desktop\chalitha\C#lab4\question4\question4\obj\Debug\net6.0\question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENAL\OneDrive\Desktop\chalitha\C#lab4\question4\question4\obj\Debug\net6.0\question4.AssemblyInfoInputs.cache
+C:\Users\SHENAL\OneDrive\Desktop\chalitha\C#lab4\question4\question4\obj\Debug\net6.0\question4.AssemblyInfo.cs
+C:\Users\SHENAL\OneDrive\Desktop\chalitha\C#lab4\question4\question4\obj\Debug\net6.0\question4.csproj.CoreCompileInputs.cache
